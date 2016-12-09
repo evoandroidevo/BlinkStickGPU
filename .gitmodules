@@ -1,0 +1,6 @@
+[submodule "BlinkStickNetAPI"]
+	path = BlinkStickNetAPI
+	url = https://github.com/arvydas/BlinkStickDotNet
+[submodule "OpenHardwareMonitor"]
+	path = OpenHardwareMonitor
+	url = https://github.com/openhardwaremonitor/openhardwaremonitor
